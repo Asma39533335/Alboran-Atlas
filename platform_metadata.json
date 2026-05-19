@@ -1,0 +1,58 @@
+{
+  "name": "Alboran Atlas",
+  "subtitle": "Moroccan Mediterranean Digital Twin Observatory",
+  "version": "MVP v9",
+  "logo_local_path": "C:\\Users\\Asus\\Downloads\\Al Boran Atlas LOGO.png",
+  "default_login": {
+    "username": "asma",
+    "password": "alboran2026"
+  },
+  "seaexplorer_logo_local_path": "C:\\Users\\Asus\\Downloads\\SeaExplorer2-scaled-removebg-preview.png",
+  "v3_updates": [
+    "No layers active on login",
+    "Glider tracks off by default",
+    "Cleaned YO-cycle glider tracks with jump splitting",
+    "SeaExplorer logo support"
+  ],
+  "v4_updates": [
+    "Use GLI navigation files for mission tracks",
+    "Strict mission-window filtering",
+    "Prefer GPS fixes where DeadReckoning equals 0",
+    "Split at navigation jumps",
+    "GitHub update script added"
+  ],
+  "v5_updates": [
+    "Clean package without conflict markers",
+    "Force-sync GitHub helper script",
+    "Conflict repair guide"
+  ],
+  "v6_updates": [
+    "Robust DDMM.mmm coordinate conversion",
+    "PLD cycle-median near-surface tracks",
+    "Mission window filtering",
+    "GEBCO bathymetry loader using configured local path"
+  ],
+  "v7_updates": [
+    "Removes Deploy tab from interface",
+    "Adds DTO Insights dashboard",
+    "Adds packaged glider CSV fallback",
+    "Adds static cloud layer fallback",
+    "Adds local static-layer preparation script"
+  ],
+  "v8_updates": [
+    "Supports real NetCDF datasets in data/aquasafe, data/bathymetry, data/odyssea",
+    "Map has AQUASAFE Mean/Daily snapshot time control",
+    "Removed Deploy tab",
+    "Added DTO Insights dashboard with actual time-series charts",
+    "Packaged glider data in data/gliders",
+    "Added copy_real_datasets_to_data_folder.py helper"
+  ],
+  "v9_updates": [
+    "Forecast Desk tab",
+    "Open-Meteo live/cached/demo marine forecast connector",
+    "AEMET-style sea-state cards",
+    "Marine-sector and forecast-lead controls",
+    "Phase 3 scenario/prediction prototype",
+    "run_update_forecast_layers.bat"
+  ]
+}

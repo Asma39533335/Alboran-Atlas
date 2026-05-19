@@ -1,0 +1,5 @@
+For cloud deployment, copy your SeaExplorer logo here with the exact name:
+SeaExplorer2-scaled-removebg-preview.png
+
+Local app also checks:
+C:\Users\Asus\Downloads\SeaExplorer2-scaled-removebg-preview.png

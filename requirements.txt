@@ -1,0 +1,13 @@
+streamlit
+streamlit-folium
+folium
+branca
+numpy
+pandas
+xarray
+matplotlib
+netCDF4
+h5netcdf
+cftime
+
+requests

@@ -1,0 +1,5 @@
+Place your logo here with this exact name for cloud deployment:
+Al Boran Atlas LOGO.png
+
+The local app also checks:
+C:\Users\Asus\Downloads\Al Boran Atlas LOGO.png
